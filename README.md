@@ -8,7 +8,7 @@ This can be run from the runner, (Subject to connectivity, of course)
 **Installation**
 Will require python3 with the following modules deployed:
 
-    Pyyaml
+  PyYAML                 
 
 Also listed in the requirements.txt
 
