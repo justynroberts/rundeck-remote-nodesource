@@ -28,7 +28,7 @@ Also listed in the requirements.txt
 
 A typical command line might be:
 
-    nodepost.py nodes.yaml myenv.rundeck.cloud aaa1112223333 2 Development
+    nodepost.py /nodes/nodes.yaml myenv.rundeck.cloud aaa1112223333 2 Development
 
 Would pull everything in nodes.yaml to index 2 (Simple Node Wizard) in the development project.
 
