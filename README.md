@@ -4,7 +4,7 @@
 ## Sample code for running a remote nodesource
 
 A quick example of how to parse an existing node source .yaml file, convert to json and push via the API to a project.
-This can be run from the runner, (Subject to connectivity, of course)
+This can be run from the runner, (Subject to connectivity from the runner, of course)
 
 **Installation**
 Will require python3 with the following modules deployed:
