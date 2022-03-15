@@ -2,7 +2,7 @@
 
 ## Sample code for running a remote nodesource
 
-A quick example of how to parse an existing node source .yaml file, and push via the API to a project.
+A quick example of how to parse an existing node source .yaml file, convert to json and push via the API to a project.
 This can be run from the runner, (Subject to connectivity, of course)
 
 **Installation**
