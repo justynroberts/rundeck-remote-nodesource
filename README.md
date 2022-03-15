@@ -33,7 +33,8 @@ A typical command line might be:
 Would pull everything in nodes.yaml to index 2 (Simple Node Wizard) in the development project.
 
 **Important**
- - This will overwrite EVERYTHING in the node list. Consider it a
+ - This has only been tested against a simple node wizard.If you dont have one, you will need to create one
+ - This will overwrite EVERYTHING in the node list for that index. Consider it a
                  complete replacement for the particular node source.
 
 Supplied as a sample. As Is.
