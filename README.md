@@ -1,3 +1,4 @@
+
 # rundeck-remote-nodesource
 
 ## Sample code for running a remote nodesource
@@ -22,8 +23,11 @@ Also listed in the requirements.txt
 **Parameters**
 
 `host` : eg. myenv.rundeck.cloud
+
 `apitoken`: A valid Rundeck API token
+
 `index`: The index of the node source (tested against the simple node source).
+
 `project`: Project Name
 
 A typical command line might be:
