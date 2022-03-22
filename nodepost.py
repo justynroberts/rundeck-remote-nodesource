@@ -6,8 +6,8 @@ import sys
 file = sys.argv[1] 
 host = sys.argv[2] 
 apitoken = sys.argv[3] 
-project = sys.argv[4] 
-index = sys.argv[5] 
+index = sys.argv[4] 
+project = sys.argv[5] 
 
 with open(file, 'r') as yaml_in:
     yaml_object = yaml.safe_load(yaml_in) # yaml_object will be a list or a dict
